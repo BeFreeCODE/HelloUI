@@ -24,6 +24,8 @@
 		0FCC833C170AADB40099A57C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FCC8314170AADB40099A57C /* Foundation.framework */; };
 		0FCC8344170AADB40099A57C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0FCC8342170AADB40099A57C /* InfoPlist.strings */; };
 		0FCC8347170AADB40099A57C /* HelloUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FCC8346170AADB40099A57C /* HelloUITests.m */; };
+		0FCC8353170ABDE10099A57C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FCC8351170ABDE10099A57C /* SecondViewController.m */; };
+		0FCC8354170ABDE10099A57C /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0FCC8352170ABDE10099A57C /* SecondViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +62,9 @@
 		0FCC8343170AADB40099A57C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0FCC8345170AADB40099A57C /* HelloUITests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloUITests.h; sourceTree = "<group>"; };
 		0FCC8346170AADB40099A57C /* HelloUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloUITests.m; sourceTree = "<group>"; };
+		0FCC8350170ABDE10099A57C /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		0FCC8351170ABDE10099A57C /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		0FCC8352170ABDE10099A57C /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +131,9 @@
 				0FCC832D170AADB40099A57C /* CViewController_iPhone.xib */,
 				0FCC8330170AADB40099A57C /* CViewController_iPad.xib */,
 				0FCC8319170AADB40099A57C /* Supporting Files */,
+				0FCC8350170ABDE10099A57C /* SecondViewController.h */,
+				0FCC8351170ABDE10099A57C /* SecondViewController.m */,
+				0FCC8352170ABDE10099A57C /* SecondViewController.xib */,
 			);
 			path = HelloUI;
 			sourceTree = "<group>";
@@ -241,6 +249,7 @@
 				0FCC8329170AADB40099A57C /* Default-568h@2x.png in Resources */,
 				0FCC832F170AADB40099A57C /* CViewController_iPhone.xib in Resources */,
 				0FCC8332170AADB40099A57C /* CViewController_iPad.xib in Resources */,
+				0FCC8354170ABDE10099A57C /* SecondViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +287,7 @@
 				0FCC831F170AADB40099A57C /* main.m in Sources */,
 				0FCC8323170AADB40099A57C /* CAppDelegate.m in Sources */,
 				0FCC832C170AADB40099A57C /* CViewController.m in Sources */,
+				0FCC8353170ABDE10099A57C /* SecondViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
