@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F9737B61713DDFA0004E24B /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737B41713DDFA0004E24B /* ThirdViewController.m */; };
+		0F9737B71713DDFA0004E24B /* ThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737B51713DDFA0004E24B /* ThirdViewController.xib */; };
+		0F9737BB1713E86A0004E24B /* CRedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737B91713E86A0004E24B /* CRedView.m */; };
+		0F9737BC1713E86A0004E24B /* CRedView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737BA1713E86A0004E24B /* CRedView.xib */; };
+		0F9737CD1713E8D80004E24B /* CPurpleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737BF1713E8D80004E24B /* CPurpleView.m */; };
+		0F9737CE1713E8D80004E24B /* CPurpleView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737C01713E8D80004E24B /* CPurpleView.xib */; };
+		0F9737CF1713E8D80004E24B /* CNavyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737C21713E8D80004E24B /* CNavyView.m */; };
+		0F9737D01713E8D80004E24B /* CNavyView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737C31713E8D80004E24B /* CNavyView.xib */; };
+		0F9737D11713E8D80004E24B /* COrangeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737C51713E8D80004E24B /* COrangeView.m */; };
+		0F9737D21713E8D80004E24B /* COrangeView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737C61713E8D80004E24B /* COrangeView.xib */; };
+		0F9737D31713E8D80004E24B /* CYellowView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737C81713E8D80004E24B /* CYellowView.m */; };
+		0F9737D41713E8D80004E24B /* CYellowView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737C91713E8D80004E24B /* CYellowView.xib */; };
+		0F9737D51713E8D80004E24B /* CBlueView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737CB1713E8D80004E24B /* CBlueView.m */; };
+		0F9737D61713E8D80004E24B /* CBlueView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737CC1713E8D80004E24B /* CBlueView.xib */; };
+		0F9737DA1713EAAB0004E24B /* CGreenView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737D81713EAA90004E24B /* CGreenView.m */; };
+		0F9737DB1713EAAB0004E24B /* CGreenView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737D91713EAAA0004E24B /* CGreenView.xib */; };
+		0F9737DF1713EB8F0004E24B /* CColorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737DD1713EB8C0004E24B /* CColorView.m */; };
+		0F9737E01713EB8F0004E24B /* CColorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F9737DE1713EB8E0004E24B /* CColorView.xib */; };
+		0F9737E31713F6E30004E24B /* CColorViewSelecter.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9737E21713F6E20004E24B /* CColorViewSelecter.m */; };
 		0FCC8313170AADB40099A57C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FCC8312170AADB40099A57C /* UIKit.framework */; };
 		0FCC8315170AADB40099A57C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FCC8314170AADB40099A57C /* Foundation.framework */; };
 		0FCC8317170AADB40099A57C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FCC8316170AADB40099A57C /* CoreGraphics.framework */; };
@@ -39,6 +58,35 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F9737B31713DDFA0004E24B /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		0F9737B41713DDFA0004E24B /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		0F9737B51713DDFA0004E24B /* ThirdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThirdViewController.xib; sourceTree = "<group>"; };
+		0F9737B81713E86A0004E24B /* CRedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CRedView.h; sourceTree = "<group>"; };
+		0F9737B91713E86A0004E24B /* CRedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CRedView.m; sourceTree = "<group>"; };
+		0F9737BA1713E86A0004E24B /* CRedView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CRedView.xib; sourceTree = "<group>"; };
+		0F9737BE1713E8D80004E24B /* CPurpleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPurpleView.h; sourceTree = "<group>"; };
+		0F9737BF1713E8D80004E24B /* CPurpleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPurpleView.m; sourceTree = "<group>"; };
+		0F9737C01713E8D80004E24B /* CPurpleView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CPurpleView.xib; sourceTree = "<group>"; };
+		0F9737C11713E8D80004E24B /* CNavyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CNavyView.h; sourceTree = "<group>"; };
+		0F9737C21713E8D80004E24B /* CNavyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CNavyView.m; sourceTree = "<group>"; };
+		0F9737C31713E8D80004E24B /* CNavyView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CNavyView.xib; sourceTree = "<group>"; };
+		0F9737C41713E8D80004E24B /* COrangeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = COrangeView.h; sourceTree = "<group>"; };
+		0F9737C51713E8D80004E24B /* COrangeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = COrangeView.m; sourceTree = "<group>"; };
+		0F9737C61713E8D80004E24B /* COrangeView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = COrangeView.xib; sourceTree = "<group>"; };
+		0F9737C71713E8D80004E24B /* CYellowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYellowView.h; sourceTree = "<group>"; };
+		0F9737C81713E8D80004E24B /* CYellowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYellowView.m; sourceTree = "<group>"; };
+		0F9737C91713E8D80004E24B /* CYellowView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CYellowView.xib; sourceTree = "<group>"; };
+		0F9737CA1713E8D80004E24B /* CBlueView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBlueView.h; sourceTree = "<group>"; };
+		0F9737CB1713E8D80004E24B /* CBlueView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBlueView.m; sourceTree = "<group>"; };
+		0F9737CC1713E8D80004E24B /* CBlueView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CBlueView.xib; sourceTree = "<group>"; };
+		0F9737D71713EAA80004E24B /* CGreenView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGreenView.h; sourceTree = "<group>"; };
+		0F9737D81713EAA90004E24B /* CGreenView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGreenView.m; sourceTree = "<group>"; };
+		0F9737D91713EAAA0004E24B /* CGreenView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGreenView.xib; sourceTree = "<group>"; };
+		0F9737DC1713EB8B0004E24B /* CColorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CColorView.h; sourceTree = "<group>"; };
+		0F9737DD1713EB8C0004E24B /* CColorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CColorView.m; sourceTree = "<group>"; };
+		0F9737DE1713EB8E0004E24B /* CColorView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CColorView.xib; sourceTree = "<group>"; };
+		0F9737E11713F6E10004E24B /* CColorViewSelecter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CColorViewSelecter.h; sourceTree = "<group>"; };
+		0F9737E21713F6E20004E24B /* CColorViewSelecter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CColorViewSelecter.m; sourceTree = "<group>"; };
 		0FCC830F170AADB40099A57C /* HelloUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FCC8312170AADB40099A57C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		0FCC8314170AADB40099A57C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -91,6 +139,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0F9737BD1713E86E0004E24B /* RainbowView */ = {
+			isa = PBXGroup;
+			children = (
+				0F9737BE1713E8D80004E24B /* CPurpleView.h */,
+				0F9737BF1713E8D80004E24B /* CPurpleView.m */,
+				0F9737C01713E8D80004E24B /* CPurpleView.xib */,
+				0F9737C11713E8D80004E24B /* CNavyView.h */,
+				0F9737C21713E8D80004E24B /* CNavyView.m */,
+				0F9737C31713E8D80004E24B /* CNavyView.xib */,
+				0F9737C41713E8D80004E24B /* COrangeView.h */,
+				0F9737C51713E8D80004E24B /* COrangeView.m */,
+				0F9737C61713E8D80004E24B /* COrangeView.xib */,
+				0F9737C71713E8D80004E24B /* CYellowView.h */,
+				0F9737C81713E8D80004E24B /* CYellowView.m */,
+				0F9737C91713E8D80004E24B /* CYellowView.xib */,
+				0F9737CA1713E8D80004E24B /* CBlueView.h */,
+				0F9737CB1713E8D80004E24B /* CBlueView.m */,
+				0F9737CC1713E8D80004E24B /* CBlueView.xib */,
+				0F9737B81713E86A0004E24B /* CRedView.h */,
+				0F9737B91713E86A0004E24B /* CRedView.m */,
+				0F9737BA1713E86A0004E24B /* CRedView.xib */,
+				0F9737D71713EAA80004E24B /* CGreenView.h */,
+				0F9737D81713EAA90004E24B /* CGreenView.m */,
+				0F9737D91713EAAA0004E24B /* CGreenView.xib */,
+				0F9737DC1713EB8B0004E24B /* CColorView.h */,
+				0F9737DD1713EB8C0004E24B /* CColorView.m */,
+				0F9737DE1713EB8E0004E24B /* CColorView.xib */,
+				0F9737E11713F6E10004E24B /* CColorViewSelecter.h */,
+				0F9737E21713F6E20004E24B /* CColorViewSelecter.m */,
+			);
+			name = RainbowView;
+			sourceTree = "<group>";
+		};
 		0FCC8306170AADB40099A57C = {
 			isa = PBXGroup;
 			children = (
@@ -124,6 +205,7 @@
 		0FCC8318170AADB40099A57C /* HelloUI */ = {
 			isa = PBXGroup;
 			children = (
+				0F9737BD1713E86E0004E24B /* RainbowView */,
 				0FCC8321170AADB40099A57C /* CAppDelegate.h */,
 				0FCC8322170AADB40099A57C /* CAppDelegate.m */,
 				0FCC832A170AADB40099A57C /* CViewController.h */,
@@ -134,6 +216,9 @@
 				0FCC8350170ABDE10099A57C /* SecondViewController.h */,
 				0FCC8351170ABDE10099A57C /* SecondViewController.m */,
 				0FCC8352170ABDE10099A57C /* SecondViewController.xib */,
+				0F9737B31713DDFA0004E24B /* ThirdViewController.h */,
+				0F9737B41713DDFA0004E24B /* ThirdViewController.m */,
+				0F9737B51713DDFA0004E24B /* ThirdViewController.xib */,
 			);
 			path = HelloUI;
 			sourceTree = "<group>";
@@ -250,6 +335,10 @@
 				0FCC832F170AADB40099A57C /* CViewController_iPhone.xib in Resources */,
 				0FCC8332170AADB40099A57C /* CViewController_iPad.xib in Resources */,
 				0FCC8354170ABDE10099A57C /* SecondViewController.xib in Resources */,
+				0F9737B71713DDFA0004E24B /* ThirdViewController.xib in Resources */,
+				0F9737BC1713E86A0004E24B /* CRedView.xib in Resources */,
+				0F9737DB1713EAAB0004E24B /* CGreenView.xib in Resources */,
+				0F9737E01713EB8F0004E24B /* CColorView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +347,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FCC8344170AADB40099A57C /* InfoPlist.strings in Resources */,
+				0F9737CE1713E8D80004E24B /* CPurpleView.xib in Resources */,
+				0F9737D01713E8D80004E24B /* CNavyView.xib in Resources */,
+				0F9737D21713E8D80004E24B /* COrangeView.xib in Resources */,
+				0F9737D41713E8D80004E24B /* CYellowView.xib in Resources */,
+				0F9737D61713E8D80004E24B /* CBlueView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +382,11 @@
 				0FCC8323170AADB40099A57C /* CAppDelegate.m in Sources */,
 				0FCC832C170AADB40099A57C /* CViewController.m in Sources */,
 				0FCC8353170ABDE10099A57C /* SecondViewController.m in Sources */,
+				0F9737B61713DDFA0004E24B /* ThirdViewController.m in Sources */,
+				0F9737BB1713E86A0004E24B /* CRedView.m in Sources */,
+				0F9737DA1713EAAB0004E24B /* CGreenView.m in Sources */,
+				0F9737DF1713EB8F0004E24B /* CColorView.m in Sources */,
+				0F9737E31713F6E30004E24B /* CColorViewSelecter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,6 +395,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FCC8347170AADB40099A57C /* HelloUITests.m in Sources */,
+				0F9737CD1713E8D80004E24B /* CPurpleView.m in Sources */,
+				0F9737CF1713E8D80004E24B /* CNavyView.m in Sources */,
+				0F9737D11713E8D80004E24B /* COrangeView.m in Sources */,
+				0F9737D31713E8D80004E24B /* CYellowView.m in Sources */,
+				0F9737D51713E8D80004E24B /* CBlueView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -478,6 +582,7 @@
 				0FCC834C170AADB40099A57C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0FCC834D170AADB40099A57C /* Build configuration list for PBXNativeTarget "HelloUITests" */ = {
 			isa = XCConfigurationList;
@@ -486,6 +591,7 @@
 				0FCC834F170AADB40099A57C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

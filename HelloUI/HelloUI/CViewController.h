@@ -8,10 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
+
 @interface CViewController : UIViewController
 
 -(IBAction) button_click : (id) sender;
-//-(void) drawRect : (CGRect)rect;
+
+
 
 @property IBOutlet UIButton* button_yes;
 @property IBOutlet UIButton* button_no;

@@ -7,6 +7,8 @@
 //
 
 #import "SecondViewController.h"
+#import "ThirdViewController.h"
+#import "CColorView.h"
 
 @interface SecondViewController ()
 
@@ -27,12 +29,41 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
+    
+    [self.view setBackgroundColor:[UIColor blueColor]];
 }
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+-(IBAction) buttonClick:(id)sender
+{
+    if(sender == self.backButton)
+    {
+        [self dismissViewControllerAnimated:YES completion:nil];
+    }
+    else if(sender == self.button_color)
+    {
+        CColorView* colorView = [[CColorView alloc]initWithNibName:@"CColorView"
+                                                            bundle:nil];
+        
+        self.viewController = colorView;
+        [self presentViewController:colorView
+                           animated:YES
+                         completion:nil];
+    }
+    else if(sender == self.button_third)
+    {
+        ThirdViewController* thirdView = [[ThirdViewController alloc]initWithNibName:@"ThirdViewController"
+                                                                              bundle:nil];
+        [self presentViewController:thirdView
+                           animated:YES
+                         completion:nil];
+
+    }
 }
 
 @end

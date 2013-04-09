@@ -10,4 +10,10 @@
 
 @interface SecondViewController : UIViewController
 
+-(IBAction) buttonClick:(id)sender;
+
+@property IBOutlet UIButton* backButton;
+@property IBOutlet UIButton* button_third;
+@property IBOutlet UIButton* button_color;
+@property UIViewController* viewController;
 @end

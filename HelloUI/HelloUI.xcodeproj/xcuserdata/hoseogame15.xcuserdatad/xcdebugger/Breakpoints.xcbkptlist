@@ -8,11 +8,26 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "HelloUI/CViewController.m"
-         timestampString = "386580082.145891"
+         timestampString = "387179352.536436"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "60"
-         endingLineNumber = "60">
+         startingLineNumber = "62"
+         endingLineNumber = "62"
+         landmarkName = "@implementation CViewController"
+         landmarkType = "3">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "HelloUI/CViewController.h"
+         timestampString = "387181620.708913"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "16"
+         endingLineNumber = "16"
+         landmarkName = "@interface CViewController"
+         landmarkType = "2">
       </FileBreakpoint>
    </FileBreakpoints>
 </Bucket>
